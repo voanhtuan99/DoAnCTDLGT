@@ -1,0 +1,8 @@
+7
+CTDL,Cau Truc Dl,100,Ptithcm,2020,Cntt,5,Tang2
+CN1234,Conan,90,Hakimito,2019,Truyen Tranh,5,Tang4
+DR1234,Doraemon,90,Fukijo Ahaki,2020,Truyen Tranh,5,Tang4
+JV2345,Java,150,Bich Nguyen,2018,Lap Trinh,5,Tang3
+TVTHEM,Ky Nang Tlvb,50,Ptit,2020,Ky Nang,5,Tang1
+TVADD,Lap Trinh Hdt,100,Ptit,2020,Cntt,5,Tang3
+OP1234,One Piece,119,Fashaho Ukuji,2020,Truyen Tranh,5,Tang4
